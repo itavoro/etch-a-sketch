@@ -1,0 +1,9 @@
+#container {
+    display: flex;
+}
+
+#container div  div {
+    border: 2px solid black;
+    height: 48px;
+    width: 48px;
+}
